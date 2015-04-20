@@ -1,0 +1,37 @@
+Current Problems of Nemu's Graphics
+-------------------------------------
+ - Fixed:
+   * Bug in calculation of reverse matrix for LookAtX.
+   * Specular now works properly (uses settilesize)
+   * diffuse color in ssb and ridge racer fine now (bug in setlightcol)
+   * fixed stars in mario (black/yellow)
+   
+   
+ - Z Fighting
+   * Ridge Racer
+ - Alpha Test
+   * Paper Mario
+ 
+ - Rogue:
+   * heightfield at 002475D0 during intro?
+   * heightfield at 003075F0 ingame?? should look at this animated
+
+ - Trying to push projection matrix in ExtremeG
+
+ - texture addressing
+    ok eye of truth
+	ok fairies in oot, at links house
+
+ - textures
+     * rocket robot on wheels
+	 * f zero in game
+
+ - lighting
+    OK fix "normal" lighting - find a good test rom
+	ok fix highlights (mario head screen)
+ - fog
+
+ - conker:
+     - bad texture 0x13191DA4
+
+ - evangelion - break at 11th display list

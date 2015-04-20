@@ -1,0 +1,3256 @@
+[887F1088FE793C00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+[127E2488FFF9FC00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: AssignTexture 0, 0
+[1218248833FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+[887F1088FE7B3D00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0: SetTFactor 1, 1
+0,0: SetAlphaSources 2, 3, 0, 0
+[42CA858897FFFF00000000]
+NewPass 5, 6
+0: SetTFactor 1, 1
+0,0: SetColorSources 4, 0, 3, 0
+0,0: SetAlphaSources 4, 0, 3, 0
+[267E0418FCFDF800000000]
+NewPass 2, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0: SetTFactor 1, 1
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+NewPass 1, 3
+1,0: SetColorSources 2, 0, 0, 0
+[881710882DFEFF00000000]
+NewPass 5, 6
+0: SetTFactor 0, 0
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+[11FE2388FFFDF800000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+0,1: SetColorSources 4, 1, 0, 0
+[30EC0458DAEDF600000000]
+NewPass 2, 1
+PrerenderTexture 0, 0, 0, 1
+0: AssignTexture 0, 2
+0,0: SetColorSources 4, 2, 0, 0
+[882D10885992C900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0: SetTFactor 0, 2
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: AssignTexture 0, 1
+0: AssignTexture 1, 0
+[1516602515257F00000000]
+NewPass 5, 6
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 2, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+PrerenderTexture 1, 2, 2, 3
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+0: SetTFactor 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+[883310882FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+TempRegOperation 2, 0, 0, FF000000, 0
+0: SetTFactor 3, 3
+0: AssignTexture 0, 0
+[117E6085FFF57800000000]
+NewPass 5, 6
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 1
+0: AssignTexture 1, 0
+NewPass 5, 2
+1: SetTFactor 1, 1
+1: AssignTexture 0, 1
+1,0: SetColorSources 2, 3, 0, 0
+1,0: SetAlphaSources 2, 2, 0, 0
+[882B10880D92FF00000000]
+NewPass 5, 6
+0: SetTFactor 0, 1
+PrerenderTexture 0, 1, 0, 3
+PrerenderTexture 1, 1, 0, 3
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+[887F1088FCF87C00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: AssignTexture 0, 0
+[30B261882FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[157E2A22FD7ABD00000000]
+NewPass 5, 6
+0: SetTFactor 1, 1
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+PrerenderTexture 0, 5, 2, 1
+0: AssignTexture 0, 2
+0: AssignTexture 1, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+[887F1088FE7D3E00000000]
+NewPass 2, 1
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+0: SetTFactor 3, 3
+[127E2488FFF3F900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[887F1088FDF6FB00000000]
+NewPass 5, 6
+0: SetTFactor 0, 0
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+[88191088327F3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+[887F1088FCFA7D00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: AssignTexture 0, 0
+[327E6488FFF9FC00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: SetTFactor 0, 0
+[119623882FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[887F1088FDF2F900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[309661552EFF7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0: SetTFactor 0, 0
+PrerenderTexture 0, 0, 0, 1
+0: AssignTexture 0, 2
+0,0: SetAlphaSources 2, 0, 0, 0
+0,1: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 1, 0
+[60B2C15565FEFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 13, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 1, 0
+0: AssignTexture 0, 0
+0,1: SetColorSources 7, 1, 2, 0
+0: AssignTexture 1, 4
+[12FE2588FFF3F900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 1
+[881710882E7F3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[627EC488FFF3F900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[40FF10880FFC3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[40FF10580EFC3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+PrerenderTexture 0, 7, 1, 1
+0: AssignTexture 0, 0
+0: AssignTexture 1, 2
+0: SetTFactor 0, 0
+[11FE2388FFF3F900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[40FE8155FEFD7E00000000]
+NewPass 2, 1
+PrerenderTexture 0, 7, 1, 0
+0,0: SetColorSources 4, 0, 2, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 2
+[25A880181493FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources C, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources C, 1, 2, 0
+[127EA088FFF3F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 1
+[127E6088FFF3F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[127E0388FFFDF800000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 3
+0: AssignTexture 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+[127E0588FFF3F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 0
+[6196C3882FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[127E2488FFFBFD00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 1, 1
+0: AssignTexture 0, 0
+[327E6488FFFBFD00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 1
+[11FE2388FFF7FB00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[887F1088FEFB7D00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 1, 1
+[881B108836FF7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 1
+[129A258837FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: SetTFactor 1, 1
+0: AssignTexture 0, 0
+[3238648873FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 0, 0
+0: SetTFactor 0, 0
+[30FE0458FEFBF800000000]
+NewPass 5, 6
+PrerenderTexture 0, 0, 0, 1
+0,0: SetColorSources 4, 2, 0, 0
+0: AssignTexture 0, 2
+0: SetTFactor 0, 1
+0,0: SetAlphaSources 2, 3, 0, 0
+[1198238833FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 1
+[309A615536FF7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 1, 0
+PrerenderTexture 0, 0, 0, 1
+0: AssignTexture 0, 2
+0: SetTFactor 0, 1
+[67160388FCFF7800000000]
+NewPass 5, 6
+TempRegOperation 6, 4, 1, FF000000, 0
+TempRegOperation 4, 5, 3, FF000000, 0
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 7, 1, 2, 0
+0: AssignTexture 1, 6
+0: AssignTexture 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+[67160488FCFF7800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 7, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 1, 0
+TempRegOperation 0, 5, 0, FFFFFFFF, 1
+TempRegOperation 2, 4, 0, 00FFFFFF, 2
+PrerenderTexture 0, 2, 3, 4
+0: AssignTexture 0, 2
+[11FE2388FFFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[127E2488FFFDFE00000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+[881710882CFE7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[60FEC188FDF6FB00000000]
+NewPass 5, 6
+0,0: SetColorSources 7, 3, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[177E2E88FEFD7E00000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 23, 0
+0,1: SetColorSources 7, 1, 3, 0
+TempRegOperation 2, 4, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+0: SetTFactor 3, 3
+0: AssignTexture 0, 0
+[40C2818887FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+[8839108871FEFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 0, 0
+0: SetTFactor 0, 0
+[4198838833FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[8833108865FEFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[121624882FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[12762488EF93C900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 23, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[30FE6155FEF37900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+PrerenderTexture 0, 0, 0, 1
+0: AssignTexture 0, 2
+0: AssignTexture 1, 0
+[30B2615566DB6D00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+PrerenderTexture 0, 0, 0, 1
+0: AssignTexture 0, 2
+[121A248837FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 1
+[147E2844FE7B3D00000000]
+NewPass 5, 6
+0,0: SetColorSources D, 2, 0, 0
+0: AssignTexture 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 1, 1
+[40FE8188FFF3F900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[41FE8388FFF9FC00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 3, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: SetTFactor 0, 0
+[8833108864FE7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[887F1088FF7DBE00000000]
+NewPass 2, 1
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+0: SetTFactor 3, 3
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+[30FE6188FFF3F900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[881510880CFE7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 0, 0
+[30FE6144FE733900000000]
+NewPass 5, 6
+0,0: SetColorSources A, 3, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0: SetTFactor 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 1, 0
+NewPass 5, 2
+1,0: SetColorSources 2, 0, 0, 0
+1,0: SetAlphaSources 2, 2, 0, 0
+1: AssignTexture 0, 0
+[327E6488FFFDFE00000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 3, 0, 0
+0: SetTFactor 0, 0
+[30B2618867FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[121803880FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[88551088A8F27900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,1: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0,1: SetAlphaSources 7, 1, 2, 0
+0: AssignTexture 1, 0
+0: AssignTexture 0, 1
+0: SetTFactor 1, 1
+[41C683888FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 0, 0
+0: SetTFactor 0, 0
+[119A238837FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 1
+0: AssignTexture 0, 0
+[15622A22C57EBF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0: SetTFactor 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+[12620388FFFFF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[151603281125FF00000000]
+NewPass 5, 6
+TempRegOperation 3, 0, 0, FF000000, 0
+PrerenderTexture 0, 1, 2, 2
+PrerenderTexture 1, 1, 2, 2
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+0: SetTFactor 0, 0
+[60E20438FFBFF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 13, 0
+0,1: SetColorSources 4, 1, 0, 0
+0,0: SetAlphaSources 4, 13, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[41FE8388FFFDFE00000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 3, 0, 0
+0: SetTFactor 0, 0
+[11960488FFFFF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0,1: SetColorSources 4, 1, 0, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[12160388FFFFF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[11B8238873FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 4, 3, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[11E62388CF93C900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 4, 12, 3, 0
+0,1: SetAlphaSources 7, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 0
+0: SetTFactor 0, 0
+[127E0388FFF3F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[127F10880FF23F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[327E6488FFF7FB00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+[11B2238867FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[31B663886FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 3, 0
+0,0: SetAlphaSources 4, 3, 3, 0
+0: SetTFactor 0, 0
+[427E8488FFF7FB00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+[31B2638867FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[62FE043815F9FF00000000]
+NewPass 5, 6
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 1, FFFFFFFF, 0
+TempRegOperation 6, 5, 3, FFFFFFFF, 0
+TempRegOperation 4, 5, 1, FFFFFFFF, 0
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 0, 0
+0: SetTFactor 3, 1
+[127E608817F3FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 1
+0: AssignTexture 0, 0
+[30FE6155FEF77B00000000]
+NewPass 5, 6
+PrerenderTexture 0, 0, 0, 1
+0: AssignTexture 0, 2
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+[121603885BFFF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+TempRegOperation 0, 0, 5, FF000000, 0
+PrerenderTexture 1, 1, 2, 1
+0: AssignTexture 1, 3
+0,0: SetAlphaSources 4, 3, 2, 0
+0,1: SetAlphaSources 7, 1, 2, 0
+[881B108834FE7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 1
+0: AssignTexture 0, 0
+[30B2615566FF7F00000000]
+NewPass 5, 6
+TempRegOperation 3, 0, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 0, 2, 3
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 2
+0: SetTFactor 0, 0
+[262A60150C937F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 0, 0, 3
+PrerenderTexture 1, 0, 0, 3
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+0: SetTFactor 1, 1
+[30FE0458FEF3F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 3, 0, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 0, 2, 3
+0: AssignTexture 0, 2
+[127E0388FFFBF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 1
+0: AssignTexture 0, 0
+[262A04180C93FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0,2: SetColorSources 4, 1, 0, 0
+0: SetTFactor 2, 1
+TempRegOperation 3, 0, 0, 00FFFFFF, 0
+PrerenderTexture 0, 1, 2, 0
+PrerenderTexture 1, 1, 2, 0
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+[121A6088FFFFF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 4, 1, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 1
+0: AssignTexture 0, 0
+[541AA83335FEFF00000000]
+NewPass 5, 6
+0: SetTFactor 0, 1
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 4, 3, 2, 0
+0,0: SetColorSources 2, 2, 0, 0
+0: AssignTexture 0, 5
+0: AssignTexture 1, 0
+0,1: SetColorSources D, 1, 2, 0
+[547EA833FDF2F900000000]
+NewPass 5, 6
+0: SetTFactor 0, 1
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+0,0: SetColorSources 2, 2, 0, 0
+0: AssignTexture 0, 5
+0: AssignTexture 1, 0
+0,1: SetColorSources D, 1, 2, 0
+[12180588FFFE3800000000]
+NewPass 5, 6
+0,0: SetAlphaSources 4, 2, 0, 0
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0: SetTFactor 1, 1
+0: AssignTexture 0, 0
+NewPass 5, 2
+1,0: SetColorSources 4, 2, 0, 0
+1,0: SetAlphaSources 4, 2, 0, 0
+1: AssignTexture 0, 0
+[887E0588167DFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 1, 1
+[327E058817FDFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 6, 0, 3, FF000000, 0
+0: SetTFactor 3, 1
+[127E058817F3FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 1, 1
+0: AssignTexture 0, 0
+[88691088D21F0F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 4, 12, 0, 0
+0: AssignTexture 0, 0
+[177E6035FCFD7E00000000]
+NewPass 2, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 3, 0
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 6, 5, 1, FF000000, 1
+TempRegOperation 4, 6, 3, FF000000, 1
+PrerenderTexture 0, 2, 2, 1
+0: AssignTexture 0, 2
+0: SetTFactor 4, 2
+[177E6035FCF37800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,1: SetColorSources E, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 6, 5, 1, FF000000, 1
+TempRegOperation 3, 5, 0, FF000000, 0
+TempRegOperation 4, 6, 3, FF000000, 1
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 1
+0: AssignTexture 0, 2
+0: SetTFactor 4, 2
+[177E60350CF37F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources C, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 3, 0
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 0, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 6, 5, 1, FF000000, 1
+TempRegOperation 4, 6, 3, FF000000, 1
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+0: SetTFactor 4, 2
+TempRegOperation 2, 2, 0, 00FFFFFF, 2
+PrerenderTexture 0, 2, 2, 4
+0: AssignTexture 0, 2
+[272C60150C937F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: SetTFactor 2, 2
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 0, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+PrerenderTexture 1, 2, 2, 3
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+[272C60350C937F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 0, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 6, 5, 1, 00FFFFFF, 1
+TempRegOperation 4, 6, 3, 00FFFFFF, 1
+TempRegOperation 2, 2, 0, 00FFFFFF, 2
+0: SetTFactor 5, 2
+PrerenderTexture 0, 2, 2, 4
+PrerenderTexture 1, 2, 2, 4
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+[262A601510937F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0,2: SetAlphaSources 4, 1, 0, 0
+0: SetTFactor 3, 1
+TempRegOperation 5, 0, 3, 00FFFFFF, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+PrerenderTexture 1, 2, 2, 3
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+[262A603510F37F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetColorSources 7, 1, 2, 0
+TempRegOperation 5, 0, 3, 00FFFFFF, 0
+0: SetTFactor 3, 1
+0: AssignTexture 0, 0
+0: AssignTexture 1, 5
+[127E0588FFFBF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 1, 1
+0: AssignTexture 0, 0
+[127EA08817F3FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 1
+[127E0588FFFDF800000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0: SetTFactor 1, 1
+0: AssignTexture 0, 0
+[887F1088FDFCFE00000000]
+NewPass 2, 1
+0,0: SetColorSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+[30FE04580EF3FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 0
+PrerenderTexture 0, 0, 0, 2
+0: AssignTexture 0, 2
+[1298043815FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 4, 1, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 3, 0
+0: SetTFactor 1, 1
+0: AssignTexture 0, 0
+[272C04180C93FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,2: SetColorSources 4, 1, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: AssignTexture 0, 1
+0: AssignTexture 1, 0
+0: SetTFactor 1, 2
+[11FE0488FFF7F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 4, 1, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[11FE0488FFF3F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 4, 1, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[262A60350CE37F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources 8, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources 8, 1, 2, 0
+TempRegOperation 5, 0, 3, FF000000, 5
+TempRegOperation 6, A, 4, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 6, 3, 1, 00FFFFFF, 1
+TempRegOperation 2, 6, 0, FF000000, 1
+TempRegOperation 3, 5, 7, 00FFFFFF, 0
+TempRegOperation 3, 0, 0, FF000000, 1
+TempRegOperation 6, 5, 7, FF000000, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+PrerenderTexture 1, 3, 2, 3
+TempRegOperation 2, A, 0, 00FFFFFF, 0
+TempRegOperation 2, 0, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+[7196E3882FFFFF00000000]
+NewPass 5, 6
+0: SetTFactor 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[887E6088FCF3F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[272C03181093FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+TempRegOperation 3, 0, 0, FF000000, 0
+PrerenderTexture 0, 1, 2, 0
+PrerenderTexture 1, 1, 2, 0
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+0: SetTFactor 0, 2
+[272C603510F37F00000000]
+NewPass 2, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources 8, 1, 2, 0
+0,0: SetAlphaSources 1, 2, 0, 0
+0,1: SetAlphaSources 1, 1, 2, 0
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 6, 5, 5, FF000000, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+TempRegOperation 6, 0, 6, FF000000, 1
+TempRegOperation 5, 6, 3, 00FFFFFF, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+PrerenderTexture 1, 3, 2, 3
+TempRegOperation 5, 0, 3, 80808080, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+PrerenderTexture 0, 1, 2, 3
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+0: SetTFactor 0, 2
+[209204880FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 2, 0
+0,1: SetAlphaSources 4, 1, 3, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 0, 0
+[271403180CFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: SetTFactor 2, 2
+PrerenderTexture 1, 1, 0, 3
+TempRegOperation 3, 0, 0, FF000000, 0
+PrerenderTexture 0, 1, 2, 3
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+[20A204880FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 0, 1
+0: AssignTexture 1, 0
+0: SetTFactor 1, 0
+[20AC04880F92FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,2: SetColorSources 7, 1, 3, 0
+TempRegOperation 3, 0, 0, 00FFFFFF, 0
+PrerenderTexture 0, 1, 2, 0
+PrerenderTexture 1, 1, 2, 0
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: SetTFactor 0, 2
+[327E6488FFF3F900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 2
+[127E2488FFF9FC00000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+[30B2614466492400000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 12, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources D, 3, 0, 0
+0: SetTFactor 0, 0
+PrerenderTexture 0, 1, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 2
+[272C04180C93FF00000001]
+NewPass 2, 1
+0,0: SetColorSources 2, 1, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0: SetTFactor 0, 2
+0: AssignTexture 0, 1
+0: AssignTexture 1, 0
+NewPass 1, 3
+1,0: SetColorSources 2, 0, 0, 0
+[25264A114C924900000000]
+NewPass 5, 6
+0: SetTFactor 0, 0
+0: AssignTexture 0, 1
+0: AssignTexture 1, 0
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+[267E0418FCFDF800000001]
+QueryDevice 0, 0
+NewPass 2, 1, 4, 5, 0, 3
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 1, 3, 0, 0
+0: AssignTexture 0, 1
+0: AssignTexture 1, 0
+0: SetTFactor 0, 1
+NewPass 1, 3, 4, 5, 0, 3
+1,0: SetColorSources 2, 0, 0, 0
+1,0: SetAlphaSources 1, 3, 0, 0
+NewPass 2, 1, 3, 5, 0, 3
+2,0: SetColorSources 2, 2, 0, 0
+2,1: SetColorSources E, 1, 2, 0
+2,2: SetColorSources 4, 1, 0, 0
+2: AssignTexture 0, 1
+2: AssignTexture 1, 0
+2: SetTFactor A, 1
+[12622488C7FFFF00000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[12622488C7FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[127E2488FFF3F900000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[887F1088FCF87C00000001]
+NewPass 2, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[1216AC80FFFE3800000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources A, 3, 1, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+TempRegOperation 2, 3, 0, 00FFFFFF, 0
+TempRegOperation 2, 0, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+PrerenderTexture 0, 1, 2, 3
+TempRegOperation 6, 2, 4, 80808080, 2
+0: SetTFactor 5, 0
+0: AssignTexture 0, 0
+NewPass 2, 1
+1,0: SetColorSources 4, 2, 0, 0
+1,0: SetAlphaSources 4, 2, 3, 0
+1: AssignTexture 0, 0
+1: SetTFactor 5, 0
+[887F1088FFFDFE00000000]
+NewPass 2, 1
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 3, 3
+[267E0318FCFDF800000001]
+NewPass 2, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0: SetTFactor 0, 1
+PrerenderTexture 0, 1, 0, 0
+PrerenderTexture 1, 1, 0, 0
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+[127E0388FFF9F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: SetTFactor 0, 1
+0: AssignTexture 0, 0
+[176C6035D8ED7600000000]
+NewPass 2, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 3, 0
+0,0: SetAlphaSources 1, 3, 0, 0
+TempRegOperation 5, 0, 3, 00FFFFFF, 0
+PrerenderTexture 0, 2, 2, 1
+0: AssignTexture 0, 2
+TempRegOperation 6, 5, 1, 00FFFFFF, 0
+TempRegOperation 4, 5, 3, 00FFFFFF, 0
+0: SetTFactor 3, 2
+[20AC60350C937F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 5, 0, 3, 00FFFFFF, 0
+PrerenderTexture 1, 2, 2, 1
+PrerenderTexture 0, 2, 2, 1
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+[30EC6155DAED7600000000]
+NewPass 2, 1
+PrerenderTexture 0, 0, 0, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+0: SetTFactor 3, 3
+0: AssignTexture 0, 2
+[373C6E117B9FCF00000000]
+NewPass 5, 6
+0,0: SetColorSources A, 3, 2, 0
+0,0: SetAlphaSources A, 3, 2, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+TempRegOperation 0, 0, 5, FFFFFFFF, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 1, 6
+[277E60150CF37F00000000]
+NewPass 5, 6
+TempRegOperation 5, 0, 3, FFFFFFFF, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 0, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+PrerenderTexture 1, 2, 2, 3
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+0: SetTFactor 0, 2
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+[30FE0458FEFDFE00000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+PrerenderTexture 0, 0, 0, 1
+0: AssignTexture 0, 2
+[30960458FEFFF800000000]
+NewPass 5, 6
+TempRegOperation 3, 0, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+PrerenderTexture 0, 0, 2, 3
+0: AssignTexture 0, 2
+0: SetTFactor 0, 0
+[267E0518FCFDF800000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources E, 1, 2, 0
+0: AssignTexture 0, 1
+PrerenderTexture 0, 1, 1, 3
+0: AssignTexture 1, 2
+0: SetTFactor 1, 1
+[887F1088FCFE7F00000001]
+NewPass 2, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 1, 3, 0, 0
+0: AssignTexture 0, 0
+[262A04181093FF00000000]
+QueryDevice 0, 4
+NewPass 5, 6, 2, 9, 0, 00000002
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,2: SetColorSources 4, 1, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0,2: SetAlphaSources 4, 1, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 0, 1
+NewPass 5, 6, 5, 9, 0, 00000002
+1,0: SetColorSources 4, 2, 13, 0
+1,1: SetColorSources 4, 1, 0, 0
+1,0: SetAlphaSources 4, 2, 0, 0
+1,1: SetAlphaSources E, 1, 2, 0
+1: AssignTexture 0, 0
+1: AssignTexture 1, 1
+1: SetTFactor A, 1
+NewPass 5, 2, 5, 9, 0, 00000002
+2,0: SetColorSources 4, 0, 3, 0
+2,1: SetColorSources 4, 1, 2, 0
+2,0: SetAlphaSources 4, 2, 0, 0
+2,1: SetAlphaSources E, 1, 2, 0
+2: AssignTexture 0, 0
+2: AssignTexture 1, 1
+2: SetTFactor A, 1
+[887F1088FDF6FB00000001]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+[272C60150CE37F00000000]
+NewPass 5, 6
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+PrerenderTexture 1, 2, 2, 3
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+[12FE2588FFFDFE00000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 1, 3
+0: AssignTexture 0, 0
+[272C603510E37F00000000]
+NewPass 5, 6
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 6, 5, 5, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 4, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 6, 5, 1, FF000000, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+PrerenderTexture 1, 3, 2, 3
+0,0: SetColorSources 8, 2, 3, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 7, 1, 2, 0
+0: AssignTexture 0, 3
+0: AssignTexture 1, 0
+0: SetTFactor 1, 0
+[127E038817F3FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 1
+0: AssignTexture 0, 0
+[127E0388FFF7F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[41FE8388FFF7FB00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+[17166035FCFF7800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 5, 0, 3, 00FFFFFF, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 0, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+TempRegOperation 6, 5, 1, FF000000, 0
+TempRegOperation 4, 5, 3, FF000000, 0
+0: SetTFactor 3, 2
+0: AssignTexture 0, 2
+[127E0388FFFBF800000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 1
+0: AssignTexture 0, 0
+[41FE8388FFFBFD00000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 5, 0, FF000000, 0
+0: SetTFactor 0, 3
+[26A060150C937F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+TempRegOperation 5, 0, 3, 00FFFFFF, 0
+0: SetTFactor 3, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 5
+[121803885BFFF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 7, 1, 2, 0
+0: SetTFactor 0, 2
+0: AssignTexture 0, 0
+TempRegOperation 2, 4, 0, FF000000, 0
+PrerenderTexture 1, 1, 2, 1
+0: AssignTexture 1, 3
+[409681332DFEFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,1: SetColorSources D, 1, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 1, 0
+0: SetTFactor 0, 0
+[8818808514FEFF00000000]
+NewPass 5, 6
+0,0: SetColorSources A, 0, 3, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 4, 3, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: SetTFactor 1, 1
+0: AssignTexture 1, 0
+NewPass 5, 2
+1,0: SetColorSources 2, 3, 0, 0
+1,0: SetAlphaSources 4, 3, 0, 0
+1,1: SetAlphaSources 4, 1, 2, 0
+1: SetTFactor 0, 1
+1: AssignTexture 1, 0
+[26A080151492FF00000000]
+NewPass 5, 6
+0,0: SetColorSources A, 0, 3, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: SetTFactor 1, 1
+0: AssignTexture 1, 0
+NewPass 5, 2
+1,0: SetColorSources 2, 3, 0, 0
+1,0: SetAlphaSources 4, 2, 3, 0
+1: AssignTexture 0, 0
+1: SetTFactor 0, 1
+[887E8F8517F8FF00000000]
+NewPass 5, 6
+0,0: SetColorSources A, 0, 3, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 3, 0, 0
+0: SetTFactor 1, 1
+0: AssignTexture 1, 4
+[1218245531FEFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 7, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 0
+PrerenderTexture 0, 4, 2, 2
+0: AssignTexture 0, 2
+0: SetTFactor 0, 3
+[887F1088FCF27900000001]
+NewPass 2, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[887F1088FCF27900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[62FEC588FFFBFD00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 1, 1
+[26A00418FC93FC00000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: AssignTexture 0, 0
+[127E0388FFFDF800000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 3
+NewPass 2, 2, 0, 0, 0, FF000000
+1,0: SetColorSources 2, 3, 0, 0
+1,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 2, 0, FFFFFFFF, 0
+1: SetTFactor 3, 3
+[127E6088FFF3F800000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[88671088CF9FCF00000000]
+NewPass 1, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 12, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+0: SetTFactor 3, 0
+0: AssignTexture 0, 0
+[887F1088FCF67B00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[40FE8188FFFDFE00000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 3
+0: AssignTexture 0, 0
+[409B10880FFE3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+TempRegOperation 6, 0, 3, FF000000, 0
+0: SetTFactor 3, 3
+[40FF10880FFA3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 6, 0, 3, FF000000, 0
+0: SetTFactor 3, 3
+0: AssignTexture 0, 0
+[887F10880E783F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 4, 0, 3, 0
+0: SetTFactor 0, 0
+[1218048813FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 0, 0
+0,1: SetAlphaSources 4, 1, 0, 0
+0: AssignTexture 0, 0
+[12180F88FFFE3800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+0,1: SetColorSources 4, 1, 1, 0
+[127E0F88FFF23800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetColorSources 4, 1, 1, 0
+0: AssignTexture 0, 0
+[30FE6188FFF7FB00000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[26A00418FC93FC00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: AssignTexture 0, 0
+[20FE048813F3FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+[11980488FFFFF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[11FE048813F3FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[127E048813F9FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 0, 0
+0,0: SetAlphaSources 4, 0, 0, 0
+0: AssignTexture 0, 0
+[12180388FFFFF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[26A004181093FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+[8814418813FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+[88160488FDFFF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[26A00418FC93F800000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[26A08015FC937B00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 12, 0, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+PrerenderTexture 0, 7, 1, 1
+0: AssignTexture 0, 0
+0: AssignTexture 1, 2
+0: SetTFactor 0, 0
+[509B10480E7E3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 12, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: SetTFactor 0, 0
+PrerenderTexture 0, 1, 1, 1
+0: AssignTexture 0, 0
+0: AssignTexture 1, 2
+[40FE8188FFFBFD00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 1
+[409910880FFE3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[26A0801510937F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 12, 0, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+PrerenderTexture 0, 7, 1, 1
+0: AssignTexture 0, 0
+0: AssignTexture 1, 2
+0: SetTFactor 0, 0
+[12B2258867DBED00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+PrerenderTexture 0, 0, 0, 1
+0: AssignTexture 0, 0
+0: AssignTexture 1, 2
+0: SetTFactor 1, 1
+[50FE0438FDF3F800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 2, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+PrerenderTexture 0, 0, 1, 0
+0: AssignTexture 1, 2
+[3098615532FF7F00000001]
+NewPass 5, 6
+TempRegOperation 3, 0, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 0, 2, 3
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 2
+[881710882DFEFF00000001]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[30B2045812FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 0
+PrerenderTexture 0, 0, 0, 2
+0: AssignTexture 0, 2
+[30B2048813FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,1: SetColorSources 4, 1, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0,1: SetAlphaSources 4, 1, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[40FE8133FFF3F900000001]
+NewPass 2, 1
+0,0: SetColorSources A, 0, 3, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 0
+0: SetTFactor 0, 0
+[40B2813367FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources A, 0, 3, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 0
+0: SetTFactor 0, 0
+[40FF1038FFFC3E00000001]
+NewPass 2, 1
+0,0: SetColorSources A, 0, 3, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 1, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 3
+[81B3038864FE7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 8, 3, 2, 0
+0,0: SetAlphaSources 8, 3, 2, 0
+TempRegOperation 4, 0, 0, 80808080, 0
+0: SetTFactor 3, 3
+0: AssignTexture 0, 0
+[40FE8133FFF3F900000000]
+NewPass 5, 6
+0,0: SetColorSources A, 0, 3, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 0
+0: SetTFactor 0, 0
+[409681882FCFE700000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources A, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[117E0458FEF3F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 1, 0
+0: AssignTexture 0, 1
+NewPass 5, 2
+1,0: SetColorSources 4, 12, 0, 0
+1,1: SetColorSources 4, 1, 3, 0
+1,0: SetAlphaSources 2, 2, 0, 0
+1: AssignTexture 0, 0
+1: SetTFactor 1, 0
+[12AA258857FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 1, 0
+[117E2288FEFD7E00000000]
+NewPass 2, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 3, 3
+NewPass 2, 2
+1,0: SetColorSources 2, 3, 0, 0
+1,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 3, 2, 0, FF000000, 0
+1: SetTFactor 3, 3
+[511AA23335FEFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 2, 0, 0, 00FFFFFF, 0
+PrerenderTexture 0, 0, 1, 2
+0: AssignTexture 0, 0
+[881710882FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+TempRegOperation 0, 0, 0, 00000000, 0
+0: SetTFactor 3, 0
+0: AssignTexture 0, 0
+[2698041814FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 1
+[11FE2388FFF5FA00000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 0, 0
+[887F1088FCFC7E00000001]
+NewPass 2, 1
+0,0: SetColorSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[887F1088FCF23900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[11A623554EFF7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: SetTFactor 0, 0
+TempRegOperation 0, 5, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 1, FF000000, 0
+TempRegOperation 6, 5, 3, FF000000, 0
+PrerenderTexture 0, 2, 0, 2
+0: AssignTexture 0, 2
+0: AssignTexture 1, 1
+[887E6580FCF23800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 0, 5, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 3, FFFFFFFF, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+TempRegOperation 6, 0, 3, FF000000, 1
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+0: AssignTexture 0, 2
+[88186580FE7E3800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,1: SetColorSources 7, 1, 3, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 3, FFFFFFFF, 0
+0: AssignTexture 0, 6
+0: AssignTexture 1, 0
+TempRegOperation 6, 0, 3, FFFFFFFF, 0
+0: SetTFactor 3, 0
+[119623552EFF7F00000001]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: SetTFactor 0, 0
+TempRegOperation 0, 5, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 1, FF000000, 0
+TempRegOperation 6, 5, 3, FF000000, 0
+PrerenderTexture 0, 2, 0, 2
+0: AssignTexture 0, 2
+0: AssignTexture 1, 0
+[319663552EFF7F00000000]
+NewPass 5, 6
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 6, 5, 1, FF000000, 0
+TempRegOperation 4, 5, 3, FF000000, 0
+0: SetTFactor 3, 0
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+[887F1088FE733900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[26A004180C93FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[887EAC80FE783800000000]
+NewPass 5, 6
+0,0: SetColorSources E, 2, 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: AssignTexture 0, 5
+0: SetTFactor 3, 1
+[127EAC80FFF83800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 2, 1, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 5
+0: SetTFactor 3, 1
+[30FEAC40FE783800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 2, 1, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 5
+0: SetTFactor 3, 1
+[127EAC80FFF23800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 2, 1, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 5
+0: SetTFactor 3, 1
+[162A0325FE13F800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 1, 1
+[11FE04881BF3FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 4, 1, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 2
+[887E6088FCF3F800000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[26A004181093FB00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+[15980458FEDBF800000000]
+NewPass 5, 6
+0,0: SetColorSources E, 2, 3, 0
+0,0: SetAlphaSources E, 2, 3, 0
+0,1: SetColorSources 4, 1, 0, 0
+0: SetTFactor 1, 1
+0: AssignTexture 0, 0
+[54FF103815F23F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+PrerenderTexture 1, 0, 1, 0
+0: AssignTexture 0, 3
+0: AssignTexture 1, 0
+[252604181093FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: AssignTexture 1, 0
+0: AssignTexture 0, 1
+0: SetTFactor 0, 0
+[12FE2588FFFBFD00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 1
+[127EAC800FF23F00000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 2, 1, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 4
+0: SetTFactor 1, 1
+[22AA03180C93FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 3, 0
+0: AssignTexture 0, 1
+PrerenderTexture 0, 1, 0, 0
+0: AssignTexture 1, 2
+0: SetTFactor 0, 1
+[26E4041810FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 1
+[119623882EFB7D00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 7, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 7, 1, 3, 0
+0: SetTFactor 1, 1
+[32BA651174924900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+PrerenderTexture 0, 0, 0, 1
+0: AssignTexture 0, 2
+[627E0388FFFDF800000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 3
+[88731088E5B6DB00000000]
+NewPass 5, 6
+0: SetTFactor 0, 0
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 12, 3, 0
+0: AssignTexture 0, 0
+[627EC488FFF9FC00000001]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+[88671088119E3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 12, 3, 0
+0,1: SetAlphaSources 4, 1, 0, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[61E71018139E3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 12, 3, 0
+0,0: SetAlphaSources 4, 12, 3, 0
+0,1: SetAlphaSources 4, 1, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[30B3108813FE3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0,1: SetAlphaSources 4, 1, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[527EA488FFFDFE00000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 3
+[55FE0418FCF3F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[347E6888FFFDFE00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 3
+[5276A488EFEDF600000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 2, 13, 0, 0
+0: SetTFactor 0, 0
+[887F1088FF73B900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+0: SetTFactor 3, 3
+0: AssignTexture 0, 0
+[887F1088FE773B00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+[887E05881679FF00000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 0, 3, 0
+0,0: SetAlphaSources 4, 0, 3, 0
+0: SetTFactor 1, 1
+[6816D0882E7F3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[71FEE311FCF27900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[12FE2533FDF2F900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 0, 5, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 3, FFFFFFFF, 0
+TempRegOperation 6, 5, 1, FFFFFFFF, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 3, 2, 0, FF000000, 1
+PrerenderTexture 0, 2, 3, 2
+0: AssignTexture 0, 2
+[161A6025FD257800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+TempRegOperation 3, 0, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 0, 2, 3
+PrerenderTexture 1, 0, 2, 3
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+0: SetTFactor 0, 1
+[1196AC80FFFE3800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources D, 2, 1, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 5
+0: SetTFactor 0, 0
+[5616AC112CFE7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+TempRegOperation 0, 2, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 4, FFFFFFFF, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+TempRegOperation 6, 2, 4, FFFFFFFF, 1
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+0: AssignTexture 0, 2
+[1596A430FDFE3800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 0
+NewPass 5, 2
+1,0: SetColorSources C, 3, 2, 0
+1,1: SetColorSources 4, 10, 1, 0
+1,0: SetAlphaSources 4, 2, 3, 0
+1: SetTFactor 0, 0
+1: AssignTexture 0, 0
+1: AssignTexture 1, 5
+[2266AC1010923F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 3, 1, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources 4, 2, 0, 0
+0: SetTFactor 1, 1
+TempRegOperation 0, 6, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 2, FFFFFFFF, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+TempRegOperation 2, 1, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+0: AssignTexture 0, 1
+0: AssignTexture 1, 2
+NewPass 5, 2
+1,0: SetColorSources 4, 2, 10, 0
+1,1: SetColorSources E, 3, 1, 0
+1,0: SetAlphaSources 4, 2, 0, 0
+1: AssignTexture 0, 2
+1: SetTFactor 1, 1
+[1218AC800FFE3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 4
+0: SetTFactor 1, 1
+[127EAC800FF23F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 2, 1, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 4
+0: SetTFactor 1, 1
+[567E03480E79FF00000000]
+NewPass 5, 6
+0,0: SetColorSources E, 3, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 4, 0, 2, 0
+0: AssignTexture 0, 4
+0: AssignTexture 1, 4
+0: SetTFactor 1, 1
+[121910880FFE3F00000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[1299103815FE3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+TempRegOperation 0, 2, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 3, FFFFFFFF, 0
+TempRegOperation 6, 5, 1, FFFFFFFF, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+PrerenderTexture 0, 2, 1, 3
+0: AssignTexture 0, 2
+[127F1088FFFE3F00000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+[11A623884FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 0, 0
+[127E2488FFFFFF00000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+0: SetTFactor 3, 3
+[122624884FFFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 0, 0
+[12FE0388FFFDF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 6, 0, 3, FF000000, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+0: SetTFactor 3, 3
+0: AssignTexture 0, 0
+[272C60350CE37F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources 8, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources 8, 1, 2, 0
+TempRegOperation 5, 0, 3, FF000000, 5
+TempRegOperation 6, A, 5, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 6, 4, 1, 00FFFFFF, 1
+TempRegOperation 2, 6, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 3, 0, 0, FF000000, 1
+TempRegOperation 6, 5, 7, FF000000, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+PrerenderTexture 1, 3, 2, 3
+0: AssignTexture 0, 3
+TempRegOperation 2, A, 0, 00FFFFFF, 0
+TempRegOperation 2, 1, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+0: AssignTexture 1, 2
+[272C603514E37F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources 8, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources 8, 1, 2, 0
+TempRegOperation 5, 0, 3, FF000000, 5
+TempRegOperation 6, A, 5, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 6, 3, 5, 00FFFFFF, 1
+TempRegOperation 2, 6, 0, FF000000, 1
+TempRegOperation 3, 5, 7, 00FFFFFF, 0
+TempRegOperation 3, 0, 0, FF000000, 1
+TempRegOperation 6, 5, 7, FF000000, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+PrerenderTexture 1, 3, 2, 3
+TempRegOperation 2, A, 0, 00FFFFFF, 0
+TempRegOperation 2, 2, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+0: SetTFactor 0, 1
+[127E0388FFF3F800000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[167E6035FCFF7E00000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 8, 1, 2, 0
+TempRegOperation 5, 0, 3, FF000000, 5
+TempRegOperation 6, A, 4, FF000000, 0
+TempRegOperation 4, A, 6, FF000000, 0
+0: SetTFactor 3, 3
+TempRegOperation 6, A, 1, FF000000, 0
+TempRegOperation 6, 5, 4, FF000000, 0
+TempRegOperation 5, 2, 6, FF000000, 0
+TempRegOperation 4, 5, 0, 80808080, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 6
+[267E60350CF37F00000000]
+NewPass 5, 6
+0,0: SetColorSources 8, 2, 3, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+TempRegOperation 3, 0, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 0, 2, 3
+0: AssignTexture 0, 2
+TempRegOperation 6, 0, 4, 80808080, 0
+TempRegOperation 6, 2, 4, 80808080, 1
+PrerenderTexture 1, 0, 2, 3
+0: AssignTexture 1, 3
+TempRegOperation 6, 0, 4, 80808080, 0
+TempRegOperation 5, 0, 3, 80808080, 1
+TempRegOperation 6, 5, 7, 80808080, 0
+TempRegOperation 4, 5, 3, 80808080, 0
+TempRegOperation 4, 5, 0, 80808080, 0
+0: SetTFactor 3, 0
+[30B20458FEFFF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+TempRegOperation 3, 0, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 0, 2, 3
+[267E04180CFDFF00000000]
+QueryDevice 0, 4
+NewPass 5, 6, 5, 9, 0, 00000002
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 13, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 4
+0: SetTFactor 0, 1
+NewPass 5, 2, 5, 9, 0, 00000002
+1,0: SetColorSources 4, 2, 0, 0
+1,1: SetColorSources 4, 1, 3, 0
+1,0: SetAlphaSources 2, 2, 0, 0
+1,1: SetAlphaSources 2, 2, 0, 0
+1: AssignTexture 0, 1
+1: AssignTexture 1, 4
+1: SetTFactor 0, 1
+NewPass 5, 6, 2, 9, 0, 00000002
+2,0: SetColorSources 2, 2, 0, 0
+2,1: SetColorSources E, 1, 2, 0
+2,2: SetColorSources 4, 1, 0, 0
+2,0: SetAlphaSources 2, 3, 0, 0
+2,1: SetAlphaSources 2, 3, 0, 0
+2,2: SetAlphaSources 2, 2, 0, 0
+2: AssignTexture 0, 0
+2: AssignTexture 1, 1
+2: AssignTexture 2, 4
+[262A04185893F800000001]
+QueryDevice 0, 4
+NewPass 2, 1, 4, 9, 0, 00000003
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0: AssignTexture 0, 1
+0: AssignTexture 1, 0
+0: SetTFactor 0, 1
+NewPass 1, 3, 4, 9, 0, 00000003
+1,0: SetColorSources 2, 0, 0, 0
+NewPass 2, 1, 3, 9, 0, 00000003
+2,0: SetColorSources 2, 2, 0, 0
+2,1: SetColorSources E, 1, 2, 0
+2,2: SetColorSources 4, 1, 0, 0
+2: AssignTexture 0, 1
+2: AssignTexture 1, 0
+[11FE2388FFFDFE00000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[262A603510937F00000000]
+NewPass 5, 6
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 6, 5, 4, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 2, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 6, 5, 1, FF000000, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+PrerenderTexture 1, 3, 2, 3
+0,0: SetColorSources 8, 2, 3, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: AssignTexture 0, 3
+0: AssignTexture 1, 0
+0: SetTFactor 1, 1
+[267E041810FDFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 13, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor A, 1
+NewPass 5, 2
+1,0: SetColorSources 4, 2, 0, 0
+1,1: SetColorSources 4, 1, 3, 0
+1,0: SetAlphaSources 2, 0, 0, 0
+1: AssignTexture 0, 1
+1: SetTFactor A, 1
+[161A60850D657F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0,1: SetAlphaSources 7, 1, 2, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 0
+PrerenderTexture 0, 0, 0, 2
+PrerenderTexture 1, 0, 0, 2
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+[2726603514937F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources 8, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 2, 1, 0
+TempRegOperation 5, 0, 3, FF000000, 5
+TempRegOperation 2, A, 0, 00FFFFFF, 0
+TempRegOperation 2, 2, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+PrerenderTexture 0, 1, 2, 5
+0: AssignTexture 0, 2
+TempRegOperation 6, A, 5, FF000000, 0
+TempRegOperation 6, 5, 1, FF000000, 1
+TempRegOperation 5, 2, 7, FF000000, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 2, 0, FF000000, 2
+TempRegOperation 3, 5, 8, FF000000, 0
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+PrerenderTexture 1, 2, 2, 3
+0: AssignTexture 1, 3
+0: SetTFactor 0, 0
+[272C603514937F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources 8, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 2, 1, 0
+TempRegOperation 5, 0, 3, FF000000, 5
+TempRegOperation 2, A, 0, 00FFFFFF, 0
+TempRegOperation 2, 2, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+PrerenderTexture 0, 1, 2, 5
+0: AssignTexture 0, 2
+TempRegOperation 6, A, 5, FF000000, 0
+TempRegOperation 6, 5, 1, FF000000, 1
+TempRegOperation 5, 2, 7, FF000000, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 2, 0, FF000000, 2
+TempRegOperation 3, 5, 8, FF000000, 0
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+PrerenderTexture 1, 2, 2, 3
+0: AssignTexture 1, 3
+0: SetTFactor 0, 2
+[171C6035FD657800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 8, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0,1: SetAlphaSources 7, 1, 2, 0
+TempRegOperation 5, 0, 3, FF000000, 5
+TempRegOperation 3, A, 0, FF000000, 5
+TempRegOperation 6, A, 5, FF000000, 0
+0: SetTFactor 8, 3
+TempRegOperation 6, 5, 1, FF000000, 1
+TempRegOperation 5, 2, 7, FF000000, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+0: AssignTexture 1, 1
+0: AssignTexture 0, 2
+[177E6035FCFD7800000000]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 8, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 3, 0
+0,1: SetAlphaSources 7, 1, 2, 0
+TempRegOperation 5, 0, 3, FF000000, 5
+TempRegOperation 3, A, 0, FF000000, 5
+0: SetTFactor 8, 8
+TempRegOperation 6, A, 5, FF000000, 0
+TempRegOperation 6, 5, 1, FF000000, 1
+TempRegOperation 5, 2, 7, FF000000, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+0: AssignTexture 1, 0
+0: AssignTexture 0, 2
+[272A8013FC92F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 2, 1, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 8, 2
+[127E6085FFFD7800000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 7, 1, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 5, 0, 3, FF000000, 0
+PrerenderTexture 0, 1, 2, 0
+0: AssignTexture 0, 2
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 3, 3
+[127E0588FFF7F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 0
+[262A04185893F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 3, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 0, 1
+[167E6035FCF37800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 5, 0, 3, 00FFFFFF, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+TempRegOperation 6, 5, 1, FF000000, 0
+TempRegOperation 4, 5, 3, FF000000, 0
+0: SetTFactor 3, 1
+0: AssignTexture 0, 2
+[30FE6155FEFD7E00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 5, 0, FFFFFFFF, 0
+0: SetTFactor 3, 3
+PrerenderTexture 0, 2, 0, 1
+0: AssignTexture 0, 2
+[127E6088A3F3FF00000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 1
+[272C6035FC937800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+TempRegOperation 6, 5, 1, 00FFFFFF, 1
+TempRegOperation 4, 6, 3, 00FFFFFF, 1
+TempRegOperation 2, 2, 0, 00FFFFFF, 2
+0: SetTFactor 4, 2
+PrerenderTexture 0, 2, 2, 4
+PrerenderTexture 1, 2, 2, 4
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+[26A004181493FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 3, 0
+0,1: SetAlphaSources E, 1, 2, 0
+TempRegOperation 3, 2, 0, 00FFFFFF, 0
+PrerenderTexture 0, 1, 2, 0
+PrerenderTexture 1, 1, 2, 0
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+0: SetTFactor A, 2
+[887EA08814F3FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 1
+[11FE2388FFFBFD00000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[61FEC388FCF27900000001]
+NewPass 2, 1
+0,0: SetColorSources 7, 2, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[26FE041814F7FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 3, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+TempRegOperation 6, 0, 3, 00FFFFFF, 0
+0: SetTFactor A, 3
+[272C603510937F00000000]
+NewPass 5, 6
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 6, 5, 5, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 2, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 6, 5, 1, FF000000, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+PrerenderTexture 1, 3, 2, 3
+0,0: SetColorSources 8, 2, 3, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: AssignTexture 0, 3
+0: AssignTexture 1, 0
+0: SetTFactor 1, 1
+[272A60150C937F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: SetTFactor 2, 1
+TempRegOperation 5, 0, 3, FF000000, 0
+TempRegOperation 2, 5, 0, 00FFFFFF, 0
+TempRegOperation 2, 0, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+PrerenderTexture 1, 2, 2, 3
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+[71AAE35556E37100000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0,1: SetAlphaSources 7, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 1, 1
+[177E6045FEFD7E00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+PrerenderTexture 0, 0, 0, 1
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 3
+0: AssignTexture 0, 2
+[60FEC144FE733900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 10, 2, 0
+0,1: SetColorSources 7, 1, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[25266015FC937800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0: SetTFactor 0, 0
+TempRegOperation 3, 0, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 0, 2, 3
+PrerenderTexture 1, 0, 2, 3
+0: AssignTexture 0, 3
+0: AssignTexture 1, 2
+[20AC04880F93FF00000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+[21964388FFFFF800000001]
+NewPass 2, 1
+0,0: SetColorSources 2, 3, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+0: SetTFactor 0, 0
+[3432685566FF7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 0
+PrerenderTexture 0, 0, 0, 2
+0: AssignTexture 0, 2
+[8819108831FEFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[887F1088FFF3F900000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+TempRegOperation 0, 2, 0, 00000000, 0
+0: SetTFactor 3, 3
+[1232248867FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[88331088667F3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[457E8A55FDF8FC00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,1: SetColorSources 8, 1, 3, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+TempRegOperation 0, 2, 2, 00000000, 0
+0: AssignTexture 0, 6
+TempRegOperation 6, 2, 2, 00000000, 1
+TempRegOperation 4, 6, 1, 00000000, 1
+TempRegOperation 4, 6, 0, 80808080, 1
+0: SetTFactor 4, 4
+[12D22588A7FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 1
+[127E2455FDF2F900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[129A258835FEFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 4
+0: SetTFactor 1, 1
+[26A004151092FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+[887E808514F8FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,1: SetColorSources 7, 1, 3, 0
+0,0: SetAlphaSources 4, 3, 0, 0
+0: SetTFactor 0, 1
+0: AssignTexture 0, 0
+[26A00415FC92F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 7, 1, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 0
+PrerenderTexture 0, 4, 2, 2
+0: AssignTexture 0, 2
+0: SetTFactor 0, 1
+[127E048513F4FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 0, 1
+0: AssignTexture 1, 1
+[22FE4511FCFA7D00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 13, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 1, 1
+PrerenderTexture 1, 1, 1, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 3
+[11C2238887FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[1298258833FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 1, 0
+[567EAC11FCF27900000000]
+NewPass 5, 6
+0,0: SetColorSources 7, 2, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 4, FFFFFFFF, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+PrerenderTexture 0, 1, 2, 3
+TempRegOperation 6, 2, 4, FF000000, 0
+0: SetTFactor 3, 1
+0: AssignTexture 0, 2
+[21A6AC10FC923800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 4, FFFFFFFF, 0
+TempRegOperation 3, 5, 0, FF000000, 0
+TempRegOperation 6, 2, 4, FFFFFFFF, 1
+TempRegOperation 2, 6, 0, 00FFFFFF, 1
+PrerenderTexture 0, 2, 2, 3
+0: AssignTexture 0, 2
+[1114048813FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 2, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+[627EC411FCFC7E00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 12, 0, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 3, 3
+0: AssignTexture 0, 0
+0: AssignTexture 1, 0
+[15FE0428FD79FC00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources C, 1, 2, 0
+0,2: SetColorSources 4, 1, 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+[627EC411FCF27900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 12, 0, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 0
+[409910580EFE3F00000000]
+NewPass 5, 6
+PrerenderTexture 0, 7, 1, 0
+0,0: SetColorSources 4, 0, 2, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 2
+[26A08018FC93FB00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[25A8A01414933F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 12, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+PrerenderTexture 0, 1, 1, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 2
+0: SetTFactor 0, 1
+[40FF10880FF23F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[40FF10880FF83F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources 4, 0, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[40FE8188FFF9FC00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0: AssignTexture 0, 0
+[26A080180C93FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[4098815532FF7F00000000]
+NewPass 5, 6
+PrerenderTexture 0, 7, 1, 0
+0,0: SetColorSources 4, 0, 2, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 2
+[509AA144367F3F00000000]
+NewPass 5, 6
+PrerenderTexture 0, 7, 1, 0
+0,0: SetColorSources 4, 0, 2, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 2
+[88120388FE7FF800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 3, 0
+0,0: SetAlphaSources 4, 2, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[887E03880E73FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[881B108818FE3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+TempRegOperation 6, 3, 5, FF000000, 0
+0: SetTFactor 0, 3
+[167E0385FE77F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 6, 3, 1, FF000000, 0
+0: SetTFactor 3, 0
+0: AssignTexture 0, 0
+NewPass 5, 2
+1,0: SetColorSources A, 0, 3, 0
+1,1: SetColorSources 4, 1, 2, 0
+1,0: SetAlphaSources 2, 3, 0, 0
+1: SetTFactor 1, 0
+1: AssignTexture 1, 4
+[887E048819F7FF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 0, 0
+0: SetTFactor 0, 0
+[30FE0358FEF3F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+TempRegOperation 3, 0, 0, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 0, 2, 3
+0: AssignTexture 0, 2
+0: SetTFactor 0, 0
+[2726601514937F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+TempRegOperation 2, 0, 0, 00FFFFFF, 0
+TempRegOperation 2, 2, 0, FF000000, 1
+TempRegOperation 3, 5, 7, FF000000, 0
+TempRegOperation 2, 2, 0, 00FFFFFF, 1
+PrerenderTexture 0, 0, 2, 3
+PrerenderTexture 1, 0, 2, 3
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+[887F108819F63F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 6, 1, 5, 00FFFFFF, 0
+0: SetTFactor 0, 3
+[157E6025FD777800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+PrerenderTexture 0, 0, 0, 1
+PrerenderTexture 1, 0, 0, 1
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+[10FE2188FFFDFE00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 3, 3
+[88531088A5FEFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 1
+[60B2C18865FEFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 7, 2, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[32586488B3FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 0, 0
+0: SetTFactor 0, 1
+[12522488A7FFFF00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 1
+[40FE8188FFF7FB00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+[30B2618866FF7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 0
+0: AssignTexture 1, 5
+[88531088A4FE7F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 1
+[887F1088FCF47A00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 1
+[30FE6188FFFDFE00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 3
+0: AssignTexture 0, 0
+[157E6028FD77F800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+PrerenderTexture 0, 1, 0, 0
+PrerenderTexture 1, 1, 0, 0
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+0: SetTFactor 0, 0
+[157EC081FFF27800000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[26FE4D11FCFC7E00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 3
+0: AssignTexture 0, 0
+[61FEC311FCF27900000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 12, 3, 0
+0,1: SetColorSources 7, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+0: AssignTexture 1, 0
+[60FEC188FDF2F900000000]
+NewPass 5, 6
+0,0: SetColorSources 7, 2, 3, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 1
+[881710882F7FBF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+0: SetTFactor 3, 0
+[881B1088377FBF00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 3, 0, 0
+0,0: SetAlphaSources 4, 3, 2, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+0: SetTFactor 3, 1
+0: AssignTexture 0, 0
+[1219108817FE3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 1
+[127F108817F23F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 2, 0, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: AssignTexture 0, 0
+0: SetTFactor 0, 1
+[887F108896793F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 4, 3, 0, 0
+0: SetTFactor 0, 1
+[121910881BFE3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,0: SetAlphaSources 4, 2, 0, 0
+0,1: SetAlphaSources 4, 1, 3, 0
+0: SetTFactor 0, 2
+0: AssignTexture 0, 0
+[40B46780FFFE3E00000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 0, 2, 0
+0,1: SetColorSources D, 3, 1, 0
+0: AssignTexture 0, 0
+PrerenderTexture 1, 1, 1, 1
+0: AssignTexture 1, 3
+0: SetTFactor 0, 0
+[22AA04180C93FF00000000]
+QueryDevice 0, 5
+NewPass 5, 6, 0, A, 0, 2
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+TempRegOperation 3, 0, 0, 00FFFFFF, 0
+PrerenderTexture 0, 1, 2, 0
+PrerenderTexture 1, 1, 2, 0
+0: AssignTexture 0, 2
+0: AssignTexture 1, 3
+[272C0418FC93F800000001]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,1: SetColorSources E, 1, 2, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources E, 1, 2, 0
+0: SetTFactor 0, 2
+0: AssignTexture 0, 1
+0: AssignTexture 1, 0
+[884710888E7F3F00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 0, 0, 0
+0,0: SetAlphaSources 4, 0, 3, 0
+0: SetTFactor 0, 0
+[127E0B88FFF3F800000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 20, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+[127E6A80FFFC3800000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources E, 3, 1, 0
+0,0: SetAlphaSources 2, 0, 0, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+0: AssignTexture 0, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+0: AssignTexture 1, 6
+0: SetTFactor 0, 0
+[127E03880FF3FF00000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 2, 0, 0
+0,1: SetColorSources 4, 1, 3, 0
+0,0: SetAlphaSources 4, 2, 3, 0
+0: SetTFactor 0, 0
+0: AssignTexture 0, 0
+[30B461556ADB6D00000000]
+NewPass 5, 6
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0,1: SetAlphaSources 2, 2, 0, 0
+PrerenderTexture 0, 0, 0, 1
+0: AssignTexture 0, 2
+PrerenderTexture 1, 0, 0, 1
+0: AssignTexture 1, 3
+[426C6A80FFBE3800000001]
+NewPass 2, 1
+0,0: SetColorSources 4, 0, 0, 0
+0,1: SetColorSources E, 3, 1, 0
+0,0: SetAlphaSources 2, 2, 0, 0
+0: SetTFactor 0, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+TempRegOperation 5, 5, 2, FFFFFFFF, 0
+TempRegOperation 6, 5, 5, FFFFFFFF, 0
+0: AssignTexture 0, 6
+[887E0488FDF7F800000000]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+0: SetTFactor 0, 0
+[71FE0458FEFDF800000001]
+NewPass 5, 6
+0,0: SetColorSources 4, 3, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FF000000, 0
+0: SetTFactor 0, 3
+[30FE6055FEFD7E00000001]
+NewPass 2, 1
+0,0: SetColorSources 2, 2, 0, 0
+0,0: SetAlphaSources 2, 3, 0, 0
+TempRegOperation 0, 0, 0, FFFFFFFF, 0
+0: SetTFactor 0, 3
+TempRegOperation 5, 0, 3, 00000000, 0
+TempRegOperation 6, 5, 6, 00000000, 0
+TempRegOperation 5, 0, 3, 00000000, 1
+TempRegOperation 6, 6, 3, 00000000, 1
+TempRegOperation 4, 6, 3, 00000000, 1
+PrerenderTexture 0, 2, 2, 3
+0: AssignTexture 0, 2
