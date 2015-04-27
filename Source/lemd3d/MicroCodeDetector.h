@@ -1,4 +1,4 @@
-#define CRCTableSize 74
+#define CRCTableSize 93
 const char *UCodeNames[15] =   {"Microcode Autodetection failed (UCode CRC: 0x%X)",
 								"Detected Microcode 1 - RSP SW Version 2.0x",
 								"Detected Microcode 2 - F3DEX series",
@@ -29,7 +29,7 @@ const struct {
 	0x8B7E9B30, 1, false, // RSP SW Version: 2.0D, 04-01-96        Killer Instinct Gold
 	0xE1752677, 1, false, // RSP SW Version: 2.0D, 04-01-96        Star Wars: Shadows of the Empire
 	0xE17526BB, 4, false, // RSP SW Version: 2.0D, 04-01-96        WaveRace US
-	0x5FE54F16, 1, false, // RSP SW Version: 2.0G, 09-30-96		   Aero Fighters Assault	
+	0x5FE54F16, 1, false, // RSP SW Version: 2.0G, 09-30-96        Aero Fighters Assault
 	0x86CBEAC5, 1, false, // RSP SW Version: 2.0G, 09-30-96        Goldeneye
 	0xB53D4DCD, 1, false, // RSP SW Version: 2.0G, 09-30-96        Mame64, most likely all demos
 	0xF5B097E5, 1, false, // RSP SW Version: 2.0H, 02-12-97        Duke Nukem 64, Jeopardy
@@ -55,11 +55,20 @@ const struct {
 	0x2498CAC2, 2, false, // RSP Gfx ucode F3DLX.Rej     1.23      Puzzle Bobble 64
 	0xA789A25A, 2, false, // RSP Gfx ucode F3DTEX/A      1.23      Tamagotchi World
 
+	0x33ACDEF1, 10,false, // RSP Gfx ucode S2DEX         1.03      SimCity 2000
+	0xD3E65425, 2, false, // RSP Gfx ucode S2DEX         1.05      Susume! Taisen Puzzle Dama
+	0xF44D404C, 10,false, // RSP Gfx ucode S2DEX         1.05      Susume! Taisen Puzzle Dama
+	0xD3E653E5, 10,false, // RSP Gfx ucode S2DEX         1.05      Susume! Taisen Puzzle Dama
+	0xDC95CC7A, 2, false, // RSP Gfx ucode S2DEX         1.06      Yoshi's Story JPN VERSION - F3DEX part
+	0x07C0B2A7, 2, false, // RSP Gfx ucode S2DEX         1.06      Yoshi's Story (Initial ucode is S2DEX - EURO VERSION), 
 	0x837C663B, 2, false, // RSP Gfx ucode S2DEX         1.06      Yoshi's Story - F3DEX part
-	0x07C0B2A7, 10,false, // RSP Gfx ucode S2DEX         1.06      Yoshi's Story (Initial ucode is S2DEX - EURO VERSION), 
 	0x7FEFECF2, 10,false, // RSP Gfx ucode S2DEX         1.06      Yoshi's Story (Initial ucode is S2DEX)
 	0xCFE0A1B0, 10,false, // RSP Gfx ucode S2DEX         1.06      Yoshi's Story - S2DEX part
 	0xE1C96429, 10,false, // RSP Gfx ucode S2DEX         1.07      Starcraft 64
+	0x21C72E5F, 10,false, // RSP Gfx ucode S2DEX         1.07      Hamster Monogatari 64
+	0xA1C0A360, 10,false, // RSP Gfx ucode S2DEX         1.07      Nintama Rantarou 64
+	0xF29AF023, 2, false, // RSP Gfx ucode S2DEX         1.07      Magical Tetris Challenge
+	0x635567C8, 2, false, // RSP Gfx ucode S2DEX         1.07      Pokemon Puzzle League
 
 	0xDEE825BF, 3, false, // RSP Gfx ucode F3DEX.NoN   fifo 2.03   F-Zero-X
 	0xDEE845FF, 3, false, // RSP Gfx ucode F3DEX.NoN   fifo 2.03   Starshot - Space Circus Fever
@@ -89,10 +98,16 @@ const struct {
 	0xF8AE0B39, 8, true,  // RSP Gfx ucode F3DEXBG.NoN fifo 2.08   Conker's Bad Fur Day
 	0x4F3C60FB, 3, true,  // RSP Gfx ucode F3DZEX.NoN  fifo 2.08I  Zelda MoM
 	0x4F2BE0FD, 3, false, // RSP Gfx ucode F3DZEX.NoN  fifo 2.08J  Doubutsu no Mori
+	0xA08F0CB2, 2, false, // RSP Gfx ucode F3DEX                   Jikkyou J.League Perfect Striker
+	0x6C28897D, 3, false, // RSP Gfx ucode F3DEX                   Command & Conquer
+	0xAB5E9424, 3, false, // RSP Gfx ucode F3DEX                   Triple play
+	0xFC5E413D, 3, false, // RSP Gfx ucode F3DEX                   Glover 2 (Early Beta)
 
 	0xA2857197, 14,false, // RSP Gfx ucode S2DEX       fifo 2.08   Worms N64/Evangelion
 
 	0x5614A9FA, 3, false, // RSP Gfx ucode L3DEX       fifo 2.08   Hey you, Pikachu
+
+	0xEF2889A9, 6, false, // RSP Gfx ucode ZSortp      0.33        Mia Hamm Soccer 64
 
 	0xC29D807D, 5, false, // ????????????????????????????????????  Diddy Kong Racing
 	0xFEC47C05, 5, false, // ????????????????????????????????????  Diddy Kong Racing
@@ -102,7 +117,12 @@ const struct {
 	0x1EC35AC0, 12,false, // ????????????????????????????????????  Star Wars: Battle for Naboo
 	0x5A4AF0CC, 6, false, // ????????????????????????????????????  Indiana Jones
 	0x7B83177E, 6, false, // ????????????????????????????????????  Cube demo
-	0xE854877A, 6, false // ????????????????????????????????????  World Driver Championship
+	0xE854877A, 6, false, // ????????????????????????????????????  World Driver Championship
+	0x9D469696, 1, false, // ????????????????????????????????????  Saikyou Habu Shougi
+	0x8950E26F, 2, false, // ????????????????????????????????????  Super Robot Spirits
+	0x78376E91, 2, false, // ????????????????????????????????????  Last Legion UX
+	0x788D0217, 1, false, // ????????????????????????????????????  Eikou no Saint Andrews
+	0x8E244181, 1, false // ????????????????????????????????????  Pachinko 365 Nichi
 };
 
 U32 UCodeCRC;
