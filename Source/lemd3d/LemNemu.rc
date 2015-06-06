@@ -53,7 +53,7 @@ BEGIN
     CONTROL         "Force Z Buffer",IDC_CHKFORCEZBUFFER,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,4,168,88,8
     CONTROL         "Wireframe mode",IDC_WIREFRAME,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,4,84,74,9
     COMBOBOX        IDC_WINDOWEDRES,84,214,71,30,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
-    LTEXT           "windowed resolution",IDC_STATIC,11,216,73,13
+    LTEXT           "windowed resolution",IDC_STATIC,11,216,70,13
     CONTROL         "Force Buffer Clear",IDC_CHKBUFFERCLEAR,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,4,191,88,8
     CONTROL         "Disable pixel shader (requires LemD3DCombine.dat)",IDC_DISABLEPIXELSHADER,
                     "Button",BS_AUTOCHECKBOX | WS_TABSTOP,4,202,191,8

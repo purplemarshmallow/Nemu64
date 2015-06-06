@@ -359,9 +359,11 @@ LRESULT CALLBACK DlgProcSettings(HWND hWnd, UINT message, WPARAM wParam, LPARAM 
 	case WM_COMMAND:
 		if (LOWORD(wParam) == IDOK || LOWORD(wParam) == IDCANCEL){
 			EndDialog(hWnd, LOWORD(wParam));
-			FreeDirect3D();
-			InitializeDirect3D();
-			ResizeWindow();
+			if(g_pd3dDevice){
+				FreeDirect3D();
+				InitializeDirect3D();
+				ResizeWindow();
+			}
 			return TRUE;
 		}
 
