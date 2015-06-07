@@ -37,6 +37,7 @@ const struct {
 	0x3950D13E, 1, false, // RSP SW Version: 2.0H, 02-12-97        Midway's Greatest Arcade Hits
 
 	0xB483AAC2, 2, false, // RSP Gfx ucode F3DEX         0.95      Mario Kart
+	0xA08F0CB2, 2, false, // RSP Gfx ucode F3DLP.Rej     0.96      Jikkyou J.League Perfect Striker
 	0x48E72211, 2, false, // RSP Gfx ucode F3DEX.NoN     1.00      Doom64
 	0x0D99A611, 2, false, // RSP Gfx ucode F3DEX.NoN     1.00      ExtremeG
 	0x40CFF45E, 2, false, // RSP Gfx ucode F3DEX.NoN     1.21      Fighter's Destiny
@@ -54,6 +55,7 @@ const struct {
 	0xBEA3A966, 2, false, // RSP Gfx ucode F3DEX         1.23      Quake II
 	0x2498CAC2, 2, false, // RSP Gfx ucode F3DLX.Rej     1.23      Puzzle Bobble 64
 	0xA789A25A, 2, false, // RSP Gfx ucode F3DTEX/A      1.23      Tamagotchi World
+	0x8950E26F, 2, false, // RSP Gfx ucode F3DLP.Rej     1.23      Super Robot Spirits
 
 	0x33ACDEF1, 10,false, // RSP Gfx ucode S2DEX         1.03      SimCity 2000
 	0xD3E65425, 2, false, // RSP Gfx ucode S2DEX         1.05      Susume! Taisen Puzzle Dama
@@ -80,10 +82,13 @@ const struct {
 	0x17193213, 3, false, // RSP Gfx ucode F3DEX       fifo 2.05   F-Zero-X(E)/Chameleon Twist 2
 	0x2F5303F1, 3, false, // RSP Gfx ucode F3DEX.NoN   fifo 2.05   Armorines Project Swarm
 	0x17214213, 3, false, // RSP Gfx ucode F3DEX.NoN   fifo 2.05   Southpark Chef Luv Shack
+	0xAB5E9424, 3, false, // RSP Gfx ucode F3DEX       xbus 2.05   Triple play
 	0x14D4F478, 3, false, // RSP Gfx ucode F3DEX.NoN   fifo 2.06   Castlevania (1&2), Pokemon Stadium
 	0x14F53478, 3, false, // RSP Gfx ucode F3DEX.NoN   fifo 2.06   Twisted Edge
 	0xAD4840BB, 3, false, // RSP Gfx ucode F3DEX       fifo 2.06   Resident Evil II (has several ucode descriptions, including ID=2 ones)
+	0x6C28897D, 3, false, // RSP Gfx ucode F3DEX.NoN   xbus 2.06   Command & Conquer
 	0xFEFDB476, 3, true,  // RSP Gfx ucode F3DZEX.NoN  fifo 2.06H  Zelda
+	0xFC5E413D, 3, false, // RSP Gfx ucode F3DEX       fifo 2.07   Glover 2 (Early Beta)
 	0xD2F25057, 3, false, // RSP Gfx ucode F3DEX.NoN   fifo 2.07   Beetle Adventure Racing
 	0xD2B21057, 3, false, // RSP Gfx ucode F3DEX.NoN   fifo 2.07   Destruction Derby, Donkey Kong 64
 	0x642202AE, 3, false, // RSP Gfx ucode F3DEX       xbus 2.07   Lode Runner 3-D
@@ -98,10 +103,6 @@ const struct {
 	0xF8AE0B39, 8, true,  // RSP Gfx ucode F3DEXBG.NoN fifo 2.08   Conker's Bad Fur Day
 	0x4F3C60FB, 3, true,  // RSP Gfx ucode F3DZEX.NoN  fifo 2.08I  Zelda MoM
 	0x4F2BE0FD, 3, false, // RSP Gfx ucode F3DZEX.NoN  fifo 2.08J  Doubutsu no Mori
-	0xA08F0CB2, 2, false, // RSP Gfx ucode F3DEX                   Jikkyou J.League Perfect Striker
-	0x6C28897D, 3, false, // RSP Gfx ucode F3DEX                   Command & Conquer
-	0xAB5E9424, 3, false, // RSP Gfx ucode F3DEX                   Triple play
-	0xFC5E413D, 3, false, // RSP Gfx ucode F3DEX                   Glover 2 (Early Beta)
 
 	0xA2857197, 14,false, // RSP Gfx ucode S2DEX       fifo 2.08   Worms N64/Evangelion
 
@@ -118,8 +119,8 @@ const struct {
 	0x5A4AF0CC, 6, false, // ????????????????????????????????????  Indiana Jones
 	0x7B83177E, 6, false, // ????????????????????????????????????  Cube demo
 	0xE854877A, 6, false, // ????????????????????????????????????  World Driver Championship
+
 	0x9D469696, 1, false, // ????????????????????????????????????  Saikyou Habu Shougi
-	0x8950E26F, 2, false, // ????????????????????????????????????  Super Robot Spirits
 	0x78376E91, 2, false, // ????????????????????????????????????  Last Legion UX
 	0x788D0217, 1, false, // ????????????????????????????????????  Eikou no Saint Andrews
 	0x8E244181, 1, false // ????????????????????????????????????  Pachinko 365 Nichi

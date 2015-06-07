@@ -2698,6 +2698,7 @@ void S2DEX_Sprite(uObjSprite *Sprite, U32 DoMatrix)
 
 U32 GetHeight(U32 Width)
 {
+//todo: calculate height for games with non-standard resolutions 
 	switch (Width){
 		case 320:
 			return 240;
